@@ -26,6 +26,11 @@ What I Learned
 
 📂 Project Setup
 
+🌐 Live Demo
+
+Check out the live version here:  
+👉 [To-Do List Live App](https://stackquantum1-max.github.io/TODOList-JS/)
+
 To run the project locally:
 
 ```bash
@@ -36,3 +41,4 @@ git clone https://github.com/stackquantum1-max/TODOList-JS.git
 cd TODOList-JS
 
 # Open index.html in your browser
+
